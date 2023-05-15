@@ -1,5 +1,4 @@
-# DYJApp-V2
-DYJApp V2 版本
+# uniapp-template
 
 ## 项目描述
 ### 项目采用uniapp 跨平台框架开发
